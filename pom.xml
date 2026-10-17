@@ -15,6 +15,7 @@
         <module>02_CREATIONAL_DP</module>
         <module>03_STRUCTURAL_DP</module>
         <module>04_BEHAVIORAL_DP</module>
+        <module>05_Real_World_Examples</module>
     </modules>
 
     <properties>
