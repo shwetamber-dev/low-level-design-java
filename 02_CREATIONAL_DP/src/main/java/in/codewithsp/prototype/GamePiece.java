@@ -16,6 +16,8 @@ public class GamePiece implements Prototype<GamePiece>{
 
     @Override
     public GamePiece clone() {
-        return this;
+        // shallow copy
+        return new GamePiece(this.color);
+
     }
 }
