@@ -1,5 +1,5 @@
 package in.codewithsp.prototype;
 
-public interface Prototype {
-
+public interface Prototype<T> {
+    T clone();
 }
